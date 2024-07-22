@@ -1,2 +1,2 @@
 # EasyTest
-A small wiki that can help begginers &amp; Students to understad Pen Test methodology and which tool they should use in each step with guidance of using it and referances to learn more about it
+is a small wiki designed to help students and beginners learn about penetration testing. It covers a wide range of topics, from the basics of pentesting to more advanced techniques. The wiki is easy to navigate and understand, making it a great resource for anyone who wants to learn more about this field
